@@ -1,5 +1,7 @@
 # TrustLens: GenAI Fairness & Trust Audit Platform
 
+Problem to solve: “Can I trust this AI-generated response before it reaches a user?”
+
 TrustLens analyzes AI-generated responses for **demographic bias**, **hallucinations**, and **fairness risks**—producing explainable trust scores and audit reports through a Streamlit interface.
 
 ## Problem

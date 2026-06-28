@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import numpy as np
 import pandas as pd
-
 from trustlens.fairness.metrics import compute_fairness_metrics
 
 class BiasDetector:
